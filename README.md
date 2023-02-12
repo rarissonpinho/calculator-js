@@ -1,1 +1,3 @@
 # calculator-js
+
+Projeto calculadora, usando HTML, CSS e JS...
